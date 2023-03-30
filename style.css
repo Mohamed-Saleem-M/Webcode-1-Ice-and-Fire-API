@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.books {
+    margin: 10px 0px;
+    padding: 20px 10px;
+    align-items: center;
+}
+
+.row {
+    justify-content: space-around;
+}
+
+.heading {
+    font-weight: bold;
+}
+
+.content {
+    font-weight: bold;
+    color: red;
+}
+
+.content1 {
+    font-weight: bold;
+    color: blueviolet;
+}
+
+.card:hover {
+    border: 3px solid rgb(126, 244, 53);
+}
